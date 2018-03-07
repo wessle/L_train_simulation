@@ -4,6 +4,17 @@ Stony Brook University, Fall 2017
 
 __________________________________
 
+This simulation model is the core of a group project for
+AMS 553, Fall 2017, at Stony Brook University. For a detailed
+discussion of the background, motivation, execution, and
+performance of the model, see project_write_up.pdf.
+
+Thanks to Sayaka and Garnett, my group members, who performed
+data and statistical analyses for the project. I conceived
+of and constructed the model, and wrote all C++ code except
+for that contained in lcgrand.h and lcgrand.cpp, which was
+borrowed from Averill M Law's website http://www.mhhe.com/engcs/law/.
+
 This program takes the cost per minute waited and runs per
 bus departure configuration, then runs the simulation the
 specified number of runs for each of 42 different departure
