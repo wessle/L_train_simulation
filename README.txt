@@ -28,8 +28,7 @@ Command for compiling on UNIX-type systems:
 
 g++ -std=c++11 L_line.cpp train_header.h lcgrand.cpp lcgrand.h
 
-I don't know how to compile in Windows. If you do, be sure to
-use C++11.
+Whatever OS you compile in, be sure to use C++11.
 
 Simply run the program from the command line and answer the prompts. 
 
