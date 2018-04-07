@@ -33,5 +33,6 @@ Whatever OS you compile in, be sure to use C++11.
 Simply run the program from the command line and answer the prompts. 
 
 I suggest running no more than 100 runs per configuration,
-since the program will test 42 configurations per run.
+since the program will test 42 configurations, which may become
+too expensive depending on your hardware.
 
